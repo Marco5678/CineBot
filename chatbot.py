@@ -21,13 +21,13 @@ filmes = [
 ]
 
 chaves_genero = {
-    "ação": ["ação", "aventura", "explosão", "acao", "açao"],
-    "comédia": ["comédia", "engraçado", "rir", "humor", "comedia"],
+    "ação": ["ação", "aventura", "explosão"],
+    "comédia": ["comédia", "engraçado", "rir", "humor"],
     "terror": ["terror", "assustador", "medo", "horror"],
-    "drama": ["drama", "emocionante", "história pesada"],
+    "drama": ["drama", "emocionante"],
     "romance": ["romance", "amor", "relacionamento"],
-    "animação": ["animação", "desenho", "infantil", "animacao", "animaçao"],
-    "ficção": ["ficção", "científica", "sci-fi", "espaço", "ficcao", "ficçao"]
+    "animação": ["animação", "desenho", "infantil"],
+    "ficção": ["ficção", "científica", "espaço"]
 }
 
 contexto_usuario = {
@@ -78,11 +78,11 @@ def responder_usuario(mensagem, contexto):
         contexto["sugeridos"] = []
         return sugerir_filme(genero_detectado, contexto)
 
-    if any(p in palavras_chave for p in ["sim", "quero", "pode", "aceito", "claro", "concerteza"]):
+    if any(p in palavras_chave for p in ["sim", "quero", "pode", "aceito", "claro", "concerteza","Gostaria"]):
         if contexto["genero_atual"]:
             return sugerir_filme(contexto["genero_atual"], contexto)
         else:
-            return "Antes me diga qual é o gênero de filme que você curte "
+            return "Antes me diga qual é o gênero de filme que você curte"
 
     if any(p in palavras_chave for p in ["oi", "ola", "eai", "e ai", "bom dia", "boa tarde", "boa noite"]):
         return random.choice(mensagens_saudacao)
