@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, jsonify
-from chatbot import criar_chatbot
+from chatbot import CineBot
 
 app = Flask(__name__)
-chatbot = criar_chatbot()
+chatbot = CineBot()
 
 @app.route("/")
 def index():
@@ -12,7 +12,7 @@ def index():
 def chat():
     data = request.get_json()
     pergunta = data.get("message")
-    resposta = chatbot(pergunta)
+    resposta = chatbot.responder(pergunta)
     return jsonify({"response": resposta})
 
 if __name__ == "__main__":

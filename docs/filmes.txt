@@ -1,0 +1,69 @@
+Filme: O Senhor dos Anéis: A Sociedade do Anel
+Diretor: Peter Jackson
+Ano: 2001
+Gênero: Fantasia, Aventura
+Elenco: Elijah Wood, Ian McKellen, Viggo Mortensen
+Resumo: Um hobbit chamado Frodo recebe a missão de destruir um anel mágico poderoso.
+
+Filme: Matrix
+Diretor: Lana e Lilly Wachowski
+Ano: 1999
+Gênero: Ficção Científica, Ação
+Elenco: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss
+Resumo: Um hacker descobre que o mundo é uma simulação controlada por máquinas.
+
+Filme: Interestelar
+Diretor: Christopher Nolan
+Ano: 2014
+Gênero: Ficção Científica, Drama
+Elenco: Matthew McConaughey, Anne Hathaway, Jessica Chastain
+Resumo: Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.
+
+Filme: A Origem
+Diretor: Christopher Nolan
+Ano: 2010
+Gênero: Ação, Ficção Científica
+Elenco: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page
+Resumo: Um ladrão invade os sonhos das pessoas para roubar segredos e implantar ideias.
+
+Filme: Titanic
+Diretor: James Cameron
+Ano: 1997
+Gênero: Romance, Drama
+Elenco: Leonardo DiCaprio, Kate Winslet
+Resumo: Uma jovem aristocrata se apaixona por um artista pobre a bordo do Titanic.
+
+Filme: Vingadores: Ultimato
+Diretor: Anthony e Joe Russo
+Ano: 2019
+Gênero: Ação, Ficção Científica
+Elenco: Robert Downey Jr., Chris Evans, Scarlett Johansson
+Resumo: Os heróis sobreviventes unem forças para reverter o estalo de Thanos e restaurar o universo.
+
+Filme: O Rei Leão
+Diretor: Roger Allers, Rob Minkoff
+Ano: 1994
+Gênero: Animação, Aventura
+Elenco: Matthew Broderick, James Earl Jones, Jeremy Irons
+Resumo: Um jovem leão chamado Simba precisa assumir seu lugar como rei após a morte de seu pai.
+
+Filme: Clube da Luta
+Diretor: David Fincher
+Ano: 1999
+Gênero: Drama, Suspense
+Elenco: Brad Pitt, Edward Norton, Helena Bonham Carter
+Resumo: Um homem insatisfeito com a vida forma um clube de lutas clandestino com um vendedor de sabão excêntrico.
+
+Filme: Forrest Gump
+Diretor: Robert Zemeckis
+Ano: 1994
+Gênero: Drama, Romance
+Elenco: Tom Hanks, Robin Wright, Gary Sinise
+Resumo: Um homem com QI abaixo da média presencia momentos marcantes da história dos EUA de forma única.
+
+Filme: O Cavaleiro das Trevas
+Diretor: Christopher Nolan
+Ano: 2008
+Gênero: Ação, Crime, Drama
+Elenco: Christian Bale, Heath Ledger, Aaron Eckhart
+Resumo: Batman enfrenta o Coringa, um criminoso caótico que ameaça mergulhar Gotham no caos total.
